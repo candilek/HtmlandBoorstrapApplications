@@ -1,0 +1,43 @@
+div{
+  border: 2px;
+  background-color:yellow;
+  height:50px;
+  weight:20px;
+  /*padding: 75px 75px 75px; */
+  margin :20px  /* başlık çerçevesinin sayfadaki konumu*/
+}
+span{
+  text-decoration: underline; /* yazının altını çizer*/
+}
+.blue {    /*Class tanımladım --->paragraflar için*/
+  color:blue;
+  text-decoration: underline;
+  background-color: black;
+}
+.red{
+  color: red;
+  background-color: magenta;
+}
+#pink{  /*----------İd tanımladım---------*/
+  color:pink;
+  background-color: black;
+  text-decoration: underline;/*yazının altını çizsin.*/
+}
+table{
+  border: 2px;
+  border-collapse: collapse;/* sınırları birleştirir.*/
+
+}
+th{
+  border:2px;
+  border-collapse: collapse;
+  padding:4px;
+  background-color: blue;
+
+}
+tr{
+  border:2px;
+  border-collapse: collapse;
+  padding: 4px;
+  background-color: blue;
+}

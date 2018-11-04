@@ -1,0 +1,27 @@
+
+p{
+  font:bold italic 20px Arial;
+
+}
+h1{
+  background-color: blue;
+  padding: 10px 40px; /* alt ,üst:10px ve sağ,sol:40px ayarladık*/
+  border-style: solid; /*Siyah çerçeve*/
+  margin-top: 10px; /*ust konum*/
+  margin-left:30px;
+  margin-right:60px;
+  margin-bottom:100px;
+
+}
+h2{
+  background-color: yellow;
+  padding: 10px 40px;
+  border-top: 4px solid green;
+  border-bottom: 8px groove orange;
+  border-width: medium;
+  margin :50px /* başlık çerçevesinin sayfadaki konumu*/
+}
+body{
+  margin:0px;
+  border:0px;
+}
